@@ -1,0 +1,219 @@
+
+*{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+}
+.header{
+  margin:0px 200px;
+  text-align: right;
+  height: 800px;
+  width: 900;
+}
+
+header{
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    margin-bottom: 100px; 
+}
+
+.header h3{
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+    font-weight: 700;
+    padding-top: 200px;
+    margin-bottom: 40px;
+}
+
+.header p{
+    color: rgb(0, 0, 0);
+    font-size: 18px;  
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.btn{
+    font-size: 20px;
+    background-color: #d75b01;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 0;
+    color: rgb(255, 255, 255);
+    padding: 15px 15px;
+}
+
+.second-section{
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    padding: 20px 150px 40px 150px;
+}
+
+.second-section h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.second-section p{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.second-section p span{
+    color: #16d887;
+}
+
+.my-plans{
+    align-items: center;
+    margin-bottom: 400px;
+    margin-top: 100px;
+ }
+
+.my-plans h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.my-plans-container{
+    align-items: center;
+    display: inline-flex;
+    position: absolute;
+    width: 1141px;
+    height: 202.96px;
+    margin-left: 230px;
+    justify-content: space-between;
+    gap:20px;   
+ }
+
+ .box{
+    align-items: center;
+    justify-content: space-between;
+ }
+
+.my-plans-container h2{
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+    
+.my-plans-container h6{
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color:#737272;        
+}
+
+img{
+    padding-left: 40px;   
+}
+
+.poster{
+    margin: 0px 200px;
+    margin-top:90px;
+    position: absolute;
+}
+
+.btn-poster {
+    height: 45px;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 5px;
+    border: 0;
+    color: rgb(24, 1, 1);
+    padding: 10px 25px;
+ }
+
+.poster-info{
+    height: 300px;
+    width: 1140px;
+    font-size: 20px;
+    background-image: url('../images/gradient2.png'),url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-color: red;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    margin-left: 230px; 
+}
+
+.poster h2{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.poster button{
+    font-size: 20px;
+    background-color: #ffffff;
+    font-weight: 800;
+    border-radius: 5px;
+    border: 0;
+    color: #d75b01;
+    padding: 15px 15px;
+}
+
+.footer{
+    display: flex;
+    gap: 315px;
+    background-color:rgb(0, 0, 0) ;
+    color: white;
+    padding: 130px 200px;
+    margin-top: 70px;
+    align-items: center;
+}
+
+.footer-title{
+    text-align: left;
+}
+
+.footer .footer-title p{
+    font-size: 10px;
+}
+
+.socials{
+    font-size: 20px;
+}
+
+.future input{
+    margin-bottom: 20px;
+    border: 0;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 10px,30px;
+}
+
+input{
+    height: 64px; 
+}
+
+.f-title{
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 45px;     
+}
+
+.future-des{
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.fu-title{
+    font-weight: 600;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+#input{
+    height: 50px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+        
